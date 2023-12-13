@@ -1,0 +1,7 @@
+El titulo del juego seria: "Invasion alienigena en el Desierto Egipcio"
+
+La historia estaria ambientada en que egipto es atacado por un repentino ataque alienígena, Las criaturas aparecieron desde las piramides de guiza, se cree que tienen un portal dentro de ella por las cuales estan llegando a nuestro mundo, el objectivo de nuestros heroes es vencer al protector del portal y cerrarlo. Solo los valientes se atreven a asumir ese riesgo, siendo la ultima esperanza de la humanidad para salvar al mundo de la aniquilación.
+
+Los niveles se basarian en 3, uno en el desierto de dia donde se enfretarian a un tipo de alienigena para poder superar el nivel y seguir avanzando, el segundo nivel seria el mismo mapa pero de noche dandole el toque al jugador que paso todo el dia peleando pero esta vez con otro tipo de enemigo, al vencer a esos enemigos se abrira una puerta""" tipo tuberia al estilo mario bross donde el jugador entrara al ultimo nivel"""(idea descartada) el que cual seria adentro de la piramide contra el boss final, al derrotarlo se cerrara el portal y el jugador habra ganado.
+
+Los objetos que el usuario puede recolectar durante la aventura seran botellas de agua que le regenera la vida, para obtener mas puntos tambien podra recolectar manzanas(cambiado por monedas), que estar estaran por el mapa y tambien seran dropeadas al matar a un enemigo(se cambio por puntos al azar).
